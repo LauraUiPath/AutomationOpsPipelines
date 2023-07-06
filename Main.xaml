@@ -89,7 +89,7 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;test 2&quot;]" />
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="388,96" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;test 3&quot;]" />
     <upa:Analyze AnalysisResult="{x:Null}" AnalyzePolicy="{x:Null}" ContinueOnError="{x:Null}" ProjectPath="{x:Null}" sap:VirtualizedContainerService.HintSize="388,197.33333333333334" sap2010:WorkflowViewState.IdRef="Analyze_1" RepositoryPath="https://github.com/LauraUiPath/AutomationOpsPipelines" />
   </Sequence>
 </Activity>
